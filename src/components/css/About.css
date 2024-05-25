@@ -1,0 +1,62 @@
+.about-section {
+    padding: 2rem;
+    text-align: left;
+    max-width: 1000px;
+    margin: 0 auto;
+    color: black; /* Set the default text color to black */
+    background-color: white; /* Ensure background is white */
+  }
+  
+  h2 {
+    text-align: center; /* Center the main title */
+    color: grey; /* Set the main title color to grey */
+  }
+  
+  h3 {
+    color: grey; /* Set subtitles color to grey */
+  }
+  
+  p {
+    margin: 1rem 0;
+    line-height: 1.5;
+    color: black; /* Ensure paragraphs are in black */
+    text-align: justify; /* Justify all paragraphs */
+  }
+  
+  .skills {
+    margin: 2rem 0;
+  }
+  
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .skills li {
+    margin: 0.5rem 1rem;
+    font-size: 1.2rem;
+    background: #f8f9fa;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    color: black; /* Ensure skills text is in black */
+  }
+  
+  .experience, .education, .personal-interests{
+    margin: 2rem 0;
+  }
+  
+  .experience-item, .education-item, .personal-interests-item {
+    text-align: left; /* Ensure individual items within sections are aligned to the left */
+  }
+  
+  .experience p, .education p, .personal-interests p {
+    margin: 1rem 0;
+    color: black; /* Ensure text is in black */
+  }
+  
+  .personal-interests {
+    margin-top: 3rem;
+  }
+  

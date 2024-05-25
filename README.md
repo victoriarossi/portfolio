@@ -35,7 +35,7 @@ To access the portfolio directly on a browser, go to the [Usage](#usage) section
 
 ## Usage
 1. **Run the application remotely:**
-   [\[Portfolio\]](https://victoria-rossi-portfolio.vercel.app)
+   [Portfolio](https://victoria-rossi-portfolio.vercel.app)
 
 2. **Run the application locally:**
    ```bash

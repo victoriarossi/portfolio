@@ -3,14 +3,12 @@ import ProjectCard from './ProjectCard';
 import './css/Projects.css';
 
 const projectsData = [
-  { title: 'Project 1', description: 'Short description of project 1.', link: 'https://github.com/victoriarossi/project1' },
-  { title: 'Project 2', description: 'Short description of project 2.', link: 'https://github.com/victoriarossi/project2' },
-  { title: 'Project 3', description: 'Short description of project 3.', link: 'https://github.com/victoriarossi/project3' },
-  { title: 'Project 4', description: 'Short description of project 4.', link: 'https://github.com/victoriarossi/project4' },
-  { title: 'Project 5', description: 'Short description of project 5.', link: 'https://github.com/victoriarossi/project5' },
-  { title: 'Project 6', description: 'Short description of project 6.', link: 'https://github.com/victoriarossi/project6' },
-  { title: 'Project 7', description: 'Short description of project 7.', link: 'https://github.com/victoriarossi/project7' },
-  { title: 'Project 8', description: 'Short description of project 8.', link: 'https://github.com/victoriarossi/project8' }
+  { title: 'SIA', description: 'SIA is a suite of six projects covering data analysis, heuristic search methods, genetic algorithms for color mixing, perceptron-based classification, unsupervised learning networks, and deep learning autoencoders.', link: 'https://github.com/victoriarossi/SIA.git' },
+  { title: 'Student Database', description: 'A python and SQL command line application with a Student database.', link: 'https://github.com/victoriarossi/student-db' },
+  { title: 'Matrix Methods in Machine Learning', description: 'This repository contains materials and resources related to the machine learning course offered at University of Wisconsin-Madison.', link: 'https://github.com/victoriarossi/Machine-Learning' },
+  { title: 'Game Hub', description: 'A versatile app where you can play a variety of games. Whether you\'re looking for classic board games, mind-bending puzzles, or exciting multiplayer challenges, GameHub has something for everyone.', link: 'https://github.com/victoriarossi/games' },
+  { title: 'Battleship', description: 'Battleship is a two player boardgame played where players set their boats up in a preliminary setup round and then alternate by choosing grid squares. If there is a boat in the grid square, it is a hit, and that is reported to the other player. Otherwise, it is a miss. Play continues until one player has hit all tiles of the opposing player.', link: 'https://github.com/victoriarossi/cs342-finalproject' },
+  { title: 'Messaging', description: 'A messaging app over the network.', link: 'https://github.com/victoriarossi/cs342-project3'}
 ];
 
 const Projects = () => {

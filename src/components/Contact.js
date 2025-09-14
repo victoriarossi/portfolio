@@ -14,7 +14,7 @@ const Contact = () => {
         <a href="https://www.linkedin.com/in/victoriarossi2/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         <a href="https://github.com/victoriarossi" target="_blank" rel="noopener noreferrer">GitHub</a>
       </div>
-      <form className="contact-form" action="https://formspree.io/f/yourFormID" method="POST">
+      <form className="contact-form" action="https://formspree.io/f/xayrzpjz" method="POST">
         <label>
           Name:
           <input type="text" name="name" required />

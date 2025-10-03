@@ -8,10 +8,15 @@ const Home = () => {
       <div className="hero">
         <img src={profilePicture} alt="Victoria Rossi" className="profile-picture" />
         <h1>Victoria Rossi</h1>
-        <h2>Web Developer</h2>
-        <p>Hi, I'm Victoria. I'm a software engineer with a passion for creating dynamic and user-friendly web applications. With a strong background in computer science and hands-on experience in software development, I specialize in building solutions that enhance user experiences and improve accessibility.</p>
-        <p>I am deeply passionate about Machine Learning and Artificial Intelligence. I'm fascinated by their potential to revolutionize industries and solve complex problems, I am driven to explore their applications and contribute to advancements in this field.</p>
+        <h2>Computer Science</h2>
+        <p>Hi, I'm Victoria. I'm a researcher in Natural Language Processing with a focus on cross-lingual understanding and empathy detection in Spanish. My work explores how large language models interpret and generate language across cultures, aiming to improve fairness, accessibility, and sensitivity in AI systems.</p>
+        <p>Currently, I am conducting research on Spanish empathy datasets, analyzing how accurate is sentiment classification when we train LLMs with annotated datasets. I am especially interested in bridging the gap between multilingual language technologies and real-world applications, advancing the ability of NLP systems to support diverse users and contexts.</p>
+        <div className="home-buttons">
         <button onClick={() => window.location.href = '#projects'}>View My Projects</button>
+        <a href="/Victoria_Rossi_CV.pdf" target="_blank" rel="noopener noreferrer">
+          <button>View My CV</button>
+        </a>
+        </div>
       </div>
     </section>
   );

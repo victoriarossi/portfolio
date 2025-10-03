@@ -3,6 +3,7 @@ import ProjectCard from './ProjectCard';
 import './css/Projects.css';
 
 const projectsData = [
+  { title: 'Sentiment analysis in Spanish', description: 'Python project training a BERT model on Spanish sentiment datasets to predict labels and analyze performance across datasets.', link: 'https://github.com/victoriarossi/spanish-sentiment-analysis'},
   { title: 'SIA', description: 'SIA is a suite of six projects covering data analysis, heuristic search methods, genetic algorithms for color mixing, perceptron-based classification, unsupervised learning networks, and deep learning autoencoders.', link: 'https://github.com/victoriarossi/SIA.git' },
   { title: 'Student Database', description: 'A python and SQL command line application with a Student database.', link: 'https://github.com/victoriarossi/student-db' },
   { title: 'Matrix Methods in Machine Learning', description: 'This repository contains materials and resources related to the machine learning course offered at University of Wisconsin-Madison.', link: 'https://github.com/victoriarossi/Machine-Learning' },

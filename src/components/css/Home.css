@@ -88,3 +88,10 @@ button:hover {
 .social-links a:hover {
   color: gray; /* Changed hover color to gray */
 }
+
+.home-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}

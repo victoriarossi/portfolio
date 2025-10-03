@@ -10,14 +10,18 @@ const About = () => {
       <div className="skills">
         <h3>Skills</h3>
         <ul>
+          <li>Python</li>
+          <li>TensorFlow</li>
           <li>JavaScript</li>
           <li>React</li>
           <li>HTML/CSS</li>
-          <li>Python</li>
+          <li>Node.js</li>
           <li>Java</li>
           <li>C++</li>
           <li>SQL</li>
           <li>Google Cloud</li>
+          <li>GitHub</li>
+          <li>LaTeX</li>
         </ul>
       </div>
       
@@ -29,7 +33,7 @@ const About = () => {
       
       <div className="education">
         <h3>Education</h3>
-        <p>I am currently pursuing a B.S. in Computer Science with a Software Engineering concentration at the University of Illinois at Chicago. I began my academic journey in Argentina and transferred to UIC to further my education.</p>
+        <p>I am currently pursuing a B.S. in Computer Science at the University of Illinois at Chicago. Currently I am during research under Professor Natalie Parde in NLP and Dr. Zhinan Wang in pre-college engineering programs.</p>
       </div>
       
       <div className="personal-interests">

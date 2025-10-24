@@ -16,6 +16,7 @@ const Home = () => {
         <a href="/Victoria_Rossi_CV.pdf" target="_blank" rel="noopener noreferrer">
           <button>View My CV</button>
         </a>
+        <button onClick={() => window.location.href = '#lectures'}>View My Lectures</button>
         </div>
       </div>
     </section>

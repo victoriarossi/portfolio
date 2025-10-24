@@ -4,6 +4,7 @@ import Home from './components/Home';
 import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import Lectures from './components/Lectures';
 import './App.css';
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
       <Home />
       <About />
       <Projects />
+      <Lectures />
       <Contact />
     </div>
   );

@@ -3,11 +3,11 @@ import LectureCard from './LectureCard';
 import './css/Lectures.css';
 
 const lecturesData = [
-  { title: 'Introduction to Go', description: 'UIC, Fall 2025', link: 'https://drive.google.com/file/d/1CfG2TFcymHXqnFKac0OWg2USr987yS3T/view?usp=sharing' },
-  { title: 'Chomsky Normal Form I', description: 'UIC, Spring 2025', link: 'https://drive.google.com/file/d/1gHpQBKbpfLsoANwqjGFe5ZZ2oc9lcUf6/view?usp=sharing' },
+  { title: 'Introduction to Go', description: 'UIC, Fall 2025', link: 'https://drive.google.com/file/d/1Xmo-dHyV2Ooj0Q_0_MhPtftMcRXmFvgl/view?usp=sharing' },
+  { title: 'Chomsky Normal Form I', description: 'UIC, Spring 2025', link: 'https://drive.google.com/file/d/1r1Roj-ypGeZpI3VbkRow6XfsBSK2YZz3/view?usp=sharing' },
   { title: 'Chomsky Normal Form II', description: 'UIC, Spring 2025', link: 'https://drive.google.com/file/d/1SnnjB4YNC39rLbWfcF5cEwCilrXMNWrJ/view?usp=sharing' },
-  { title: 'Recursion — CS 107', description: 'UIC, Fall 2024', link: 'https://drive.google.com/file/d/17VO4as3bysAcsUJMoSjQMXRHGHRcE2Tg/view?usp=sharing' },
-  { title: 'Introduction to OOP', description: 'UIC, Fall 2024', link: 'https://drive.google.com/file/d/1-FwLCK0gvEIUEzV8bbk_2V_z_ZZ0IW1Z/view?usp=sharing' }
+  { title: 'Recursion — CS 107', description: 'UIC, Fall 2024', link: 'https://drive.google.com/file/d/1YV3TqUXTrXo0OROdfFGe433zEkdvV9q5/view?usp=sharing' },
+  { title: 'Introduction to OOP', description: 'UIC, Fall 2024', link: 'https://drive.google.com/file/d/1oCNy3NzqW9YX_2Z0XOBWTAq2XD5fjkwc/view?usp=sharing' }
 ];
 
 const Lectures = () => {
